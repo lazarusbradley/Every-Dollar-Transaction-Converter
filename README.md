@@ -1,4 +1,4 @@
-# EveryDollarFreeTransactionConverter
+# Every-Dollar-Transaction-Converter
 Converts EveryDollar transactions to CSV without needing a Ramsey+ subscription. You will need to manually copy them from the website (see below for instructions), but then this program cleans up the input and stores it automatically in CSV format.
 
 HOW TO USE
