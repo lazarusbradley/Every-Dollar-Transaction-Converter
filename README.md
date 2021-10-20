@@ -8,7 +8,7 @@ HOW TO USE
 * Go to the "Tracked" transactions tab within the Transactions side bar.
 * Scroll to bottom of transaction list, and press "Load [month] Transactions". Repeat until all are visible.
 * Right click anywhere on page, and press "Inspect" on popout menu.
-* Right click on the line with the text "\<body-data-analytics-logged-in="true"\>", and select "Copy Element".
+* In the Elements tab, right click on the line with the text "\<body data-analytics-logged-in="true"\>", and select "Copy Element". If you can't find this line, press Ctrl+F in the Elements text window, and type it out.
 * Anywhere in your local file directory, create a html file, and open it in Notepad.
 * Copy-paste the html elements into this file.
 * Then, close Notepad and open the html file in Edge.
