@@ -5,12 +5,6 @@ import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.io.Writer;
 
-//README: This program takes plain-text EveryDollar transactions, ripped from the website, and converts them to CSV.
-//        You must manually copy them to a "transactions.txt" file in the same folder as this program. To get them,
-//        open ALL EveryDollar transactions in the web app, open the inspection tab in Chrome, and copy the body.
-//        From there, save the body as HTML and open it. A plain text list of transactions will be available here.
-//        From there, save the transactions as described above, run this and it will convert it to CSV. 
-
 public class everydollar_transaction_organizer { 
 
    final static String cleanedFileName =  "transactions-cleaned.txt";
