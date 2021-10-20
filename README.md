@@ -18,5 +18,5 @@ HOW TO USE
 * Copy paste the transaction data into this file (transactions.txt), and save this file.
 
 * [PROCESSING RAW TRANSACTION TEXT INTO CSV]
-* Now, run the Java file. (You will need Java installed. You can run it through the command line I guess, but I just used JGrasp to run it through there).
-* You should now have a CSV file with all your transactions logged in it.
+* Now, run the Java file. (You will need Java installed. You can run it through the command line I guess, but I just used JGrasp to run it through there. JGrasp can be downloaded here: https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html. Install JGrasp, open the Java file using JGrasp, and click the icon with the running person).
+* You should now have a CSV file with all your transactions logged in it in the same folder as the Java file and the transactions.txt file.
