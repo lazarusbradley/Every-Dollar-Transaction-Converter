@@ -158,6 +158,8 @@ public class everydollar_transaction_organizer {
       if (input.equals("Split")) {
          return "*---*";
       }
+      input = input.replace(',', '-');
+      
       return input;
    }
    
